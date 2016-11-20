@@ -1,0 +1,6 @@
+THIS IS EXAMPLE ONLY!!!!
+
+Command for create table;
+
+CREATE TABLE feedback (id INT  AUTO_INCREMENT, message CHAR (100), PRIMARY KEY (id));
+
